@@ -1,0 +1,48 @@
+header {
+	background-image:url('../images/header/cinema.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	height: 220px;
+}
+
+body {
+	
+	color: ghostwhite;
+	background-color: #17202A;
+	opacity: 0.9;
+}
+
+h1 {
+	font-family: 'Architects Daughter', cursive;
+	text-align: center;
+	opacity: 0.7;
+	padding-top: 50px;
+}
+
+p {
+	text-align:justify;
+}
+
+div {
+	background-color: #1B2631;
+	border-color: #AED6F1;
+	border: solid 1px;
+	max-width: 50%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 30px 20px;
+}
+
+th {
+	text-align: justify;
+	padding: 20px 10px;
+}
+
+.titre {
+	text-align: left;
+}
+.date-real {
+	text-align: right;
+}
